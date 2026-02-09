@@ -13,7 +13,7 @@ export default function About() {
 
             <p className="text-gray-400 leading-relaxed max-w-3xl mx-auto"> As a postgraduate student with a background in structured testing and documentation, 
               I focus on validating functionality, uncovering edge cases, and ensuring systems behave reliably under different conditions, including negative inputs and unstable network environments. 
-            I am consciously gaining knowledge and sharping my skills on breaking down complex workflows, thinking from a user’s perspective, and translating findings into clear, actionable test artefacts. 
+            I am consciously gaining knowledge and sharpening my skills on breaking down complex workflows, thinking from a user’s perspective, and translating findings into clear, actionable test artefacts. 
             </p>
 
             <p className="text-gray-400 leading-relaxed max-w-3xl mx-auto"> I am ISTQB® Foundation Certified and experienced in producing industry-aligned QA documentation. While my experience has been gained outside a professional workplace setting, I am comfortable with standard QA practices and eager to contribute, learn, and grow within a collaborative engineering team.
@@ -22,7 +22,7 @@ export default function About() {
 
           <div className="flex justify-center md:justify-end">
           <img
-            src="/joyo_profile.jpeg"
+            src="/portfolio.jpg"
             alt="Joy Oghogho Omorogiuwa"
             className="w-80 h-80 object-cover rounded-2xl border-4 border-pink-500 shadow-lg"
           />

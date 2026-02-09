@@ -7,7 +7,7 @@ export default function Contact() {
         Let's improve product quality and reliability 💼✨
       </p>
       <a
-        href="mailto:omo.jhoie@gmail.com"
+        href="mailto:JoybrightO@outlook.com"
         className="bg-pink-500 hover:bg-pink-600 text-white px-8 py-3 rounded-full text-sm font-semibold transition-all"
       >
         Start a Conversation
