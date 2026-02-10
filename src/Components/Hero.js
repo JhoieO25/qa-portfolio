@@ -19,15 +19,6 @@ export default function Hero() {
         </a>
 
         <a
-          href="/Joy_Omorogiuwa_QA_Engineer_CV.pdf"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="mt-8 bg-pink-500 hover:bg-pink-600 text-white px-6 py-3 rounded-full text-sm font-semibold transition-all"
-        >
-          View CV
-        </a>
-
-        <a
           href="#contact"
           className="mt-8 bg-pink-500 hover:bg-pink-600 text-white px-6 py-3 rounded-full text-sm font-semibold transition-all"
         >
