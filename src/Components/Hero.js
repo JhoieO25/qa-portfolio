@@ -4,7 +4,7 @@ export default function Hero() {
       <h1 className="text-4xl md:text-6xl font-extrabold text-center mb-4">
         👋🏽 Hi, I'm Joy - <span className="text-pink-400">QA Engineer</span>
       </h1>
-      <p><i>ISTQB® Foundation Certified • Manual & API Testing • Jira-style Documentation • Postman • GitHub</i></p>
+      <p><i>ISTQB® Foundation Certified • Manual, Exploratory & API Testing • Jira-style Documentation • Postman • GitHub</i></p>
       <p className="text-lg md:text-xl text-gray-400 max-w-2xl text-center leading-relaxed">
         On the journey to applying structured testing approaches to uncover issues early and support the delivery of stable, high-quality software.
       </p>
